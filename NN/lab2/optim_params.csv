@@ -1,0 +1,9 @@
+,SGD,MomentumSGD,NesterovSGD,AdaGrad,AdaDelta,RMSProp,Adam
+accuracy,0.9095,0.9552,0.9546,0.9547,0.8853,0.9803,0.9781
+hidden_size,400,500,500,500,500,400,500
+epoch_value,9,9,9,9,9,9,7
+activation_func,relu,relu,relu,relu,relu,relu,relu
+regularization,weight_decay_L2,weight_decay_L2,weight_decay_L2,weight_decay_L2,weight_decay_L2,dropout,dropout
+weight_init,kaiming,kaiming,kaiming,kaiming,kaiming,kaiming,kaiming
+normalization_mini_batch,True,True,True,True,True,False,False
+optimizer,SGD,MomentumSGD,NesterovSGD,AdaGrad,AdaDelta,RMSProp,Adam
