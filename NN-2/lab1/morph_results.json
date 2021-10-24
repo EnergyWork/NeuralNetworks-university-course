@@ -1,352 +1,282 @@
 [
     {
-        "дождище": {
-            "OriginForm": "дождище",
-            "NormalForm": "дождище",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "дождище",
+        "NormalForm": "дождище",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "душещипательская": {
-            "OriginForm": "душещипательская",
-            "NormalForm": "душещипательский",
-            "POS": "имя прилагательное (полное)",
-            "Case": "именительный",
-            "Gender": "женский род",
-            "FromDict": false
-        }
+        "OriginForm": "душещипательская",
+        "NormalForm": "душещипательский",
+        "POS": "имя прилагательное (полное)",
+        "Case": "именительный",
+        "Gender": "женский род",
+        "FromDict": false
     },
     {
-        "истоия": {
-            "OriginForm": "истоия",
-            "NormalForm": "истоия",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "женский род",
-            "FromDict": false
-        }
+        "OriginForm": "истоия",
+        "NormalForm": "истоия",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "женский род",
+        "FromDict": false
     },
     {
-        "дождь": {
-            "OriginForm": "дождь",
-            "NormalForm": "дождь",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "дождь",
+        "NormalForm": "дождь",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "кстати": {
-            "OriginForm": "кстати",
-            "NormalForm": "кстати",
-            "POS": "союз",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "кстати",
+        "NormalForm": "кстати",
+        "POS": "союз",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "еще": {
-            "OriginForm": "еще",
-            "NormalForm": "ещё",
-            "POS": "наречие",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "еще",
+        "NormalForm": "ещё",
+        "POS": "наречие",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "дождик": {
-            "OriginForm": "дождик",
-            "NormalForm": "дождик",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "дождик",
+        "NormalForm": "дождик",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "машина": {
-            "OriginForm": "машина",
-            "NormalForm": "машина",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "женский род",
-            "FromDict": true
-        }
+        "OriginForm": "машина",
+        "NormalForm": "машина",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "женский род",
+        "FromDict": true
     },
     {
-        "машинка": {
-            "OriginForm": "машинка",
-            "NormalForm": "машинка",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "женский род",
-            "FromDict": true
-        }
+        "OriginForm": "машинка",
+        "NormalForm": "машинка",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "женский род",
+        "FromDict": true
     },
     {
-        "машинное": {
-            "OriginForm": "машинное",
-            "NormalForm": "машинный",
-            "POS": "имя прилагательное (полное)",
-            "Case": "именительный",
-            "Gender": "средний род",
-            "FromDict": true
-        }
+        "OriginForm": "машинное",
+        "NormalForm": "машинный",
+        "POS": "имя прилагательное (полное)",
+        "Case": "именительный",
+        "Gender": "средний род",
+        "FromDict": true
     },
     {
-        "душещипательская": {
-            "OriginForm": "душещипательская",
-            "NormalForm": "душещипательский",
-            "POS": "имя прилагательное (полное)",
-            "Case": "именительный",
-            "Gender": "женский род",
-            "FromDict": false
-        }
+        "OriginForm": "душещипательская",
+        "NormalForm": "душещипательский",
+        "POS": "имя прилагательное (полное)",
+        "Case": "именительный",
+        "Gender": "женский род",
+        "FromDict": false
     },
     {
-        "земля": {
-            "OriginForm": "земля",
-            "NormalForm": "земля",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "женский род",
-            "FromDict": true
-        }
+        "OriginForm": "земля",
+        "NormalForm": "земля",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "женский род",
+        "FromDict": true
     },
     {
-        "земельный": {
-            "OriginForm": "земельный",
-            "NormalForm": "земельный",
-            "POS": "имя прилагательное (полное)",
-            "Case": "винительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "земельный",
+        "NormalForm": "земельный",
+        "POS": "имя прилагательное (полное)",
+        "Case": "винительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "идет": {
-            "OriginForm": "идет",
-            "NormalForm": "идти",
-            "POS": "глагол (личная форма)",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "идет",
+        "NormalForm": "идти",
+        "POS": "глагол (личная форма)",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "дождь": {
-            "OriginForm": "дождь",
-            "NormalForm": "дождь",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "дождь",
+        "NormalForm": "дождь",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "школа": {
-            "OriginForm": "школа",
-            "NormalForm": "школа",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "женский род",
-            "FromDict": true
-        }
+        "OriginForm": "школа",
+        "NormalForm": "школа",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "женский род",
+        "FromDict": true
     },
     {
-        "и": {
-            "OriginForm": "и",
-            "NormalForm": "и",
-            "POS": "союз",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "и",
+        "NormalForm": "и",
+        "POS": "союз",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "сервис": {
-            "OriginForm": "сервис",
-            "NormalForm": "сервис",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "сервис",
+        "NormalForm": "сервис",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "отца": {
-            "OriginForm": "отца",
-            "NormalForm": "отец",
-            "POS": "имя существительное",
-            "Case": "родительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "отца",
+        "NormalForm": "отец",
+        "POS": "имя существительное",
+        "Case": "родительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "с": {
-            "OriginForm": "с",
-            "NormalForm": "с",
-            "POS": "предлог",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "с",
+        "NormalForm": "с",
+        "POS": "предлог",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "дождём": {
-            "OriginForm": "дождём",
-            "NormalForm": "дождь",
-            "POS": "имя существительное",
-            "Case": "творительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "дождём",
+        "NormalForm": "дождь",
+        "POS": "имя существительное",
+        "Case": "творительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "и": {
-            "OriginForm": "и",
-            "NormalForm": "и",
-            "POS": "союз",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "и",
+        "NormalForm": "и",
+        "POS": "союз",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "огнём": {
-            "OriginForm": "огнём",
-            "NormalForm": "огонь",
-            "POS": "имя существительное",
-            "Case": "творительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "огнём",
+        "NormalForm": "огонь",
+        "POS": "имя существительное",
+        "Case": "творительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "воды": {
-            "OriginForm": "воды",
-            "NormalForm": "вода",
-            "POS": "имя существительное",
-            "Case": "родительный",
-            "Gender": "женский род",
-            "FromDict": true
-        }
+        "OriginForm": "воды",
+        "NormalForm": "вода",
+        "POS": "имя существительное",
+        "Case": "родительный",
+        "Gender": "женский род",
+        "FromDict": true
     },
     {
-        "сразу": {
-            "OriginForm": "сразу",
-            "NormalForm": "сразу",
-            "POS": "наречие",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "сразу",
+        "NormalForm": "сразу",
+        "POS": "наречие",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "с": {
-            "OriginForm": "с",
-            "NormalForm": "с",
-            "POS": "предлог",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "с",
+        "NormalForm": "с",
+        "POS": "предлог",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "обрыва": {
-            "OriginForm": "обрыва",
-            "NormalForm": "обрыв",
-            "POS": "имя существительное",
-            "Case": "родительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "обрыва",
+        "NormalForm": "обрыв",
+        "POS": "имя существительное",
+        "Case": "родительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "в": {
-            "OriginForm": "в",
-            "NormalForm": "в",
-            "POS": "предлог",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "в",
+        "NormalForm": "в",
+        "POS": "предлог",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "облака": {
-            "OriginForm": "облака",
-            "NormalForm": "облако",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "средний род",
-            "FromDict": true
-        }
+        "OriginForm": "облака",
+        "NormalForm": "облако",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "средний род",
+        "FromDict": true
     },
     {
-        "облачные": {
-            "OriginForm": "облачные",
-            "NormalForm": "облачный",
-            "POS": "имя прилагательное (полное)",
-            "Case": "именительный",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "облачные",
+        "NormalForm": "облачный",
+        "POS": "имя прилагательное (полное)",
+        "Case": "именительный",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "шторм": {
-            "OriginForm": "шторм",
-            "NormalForm": "шторм",
-            "POS": "имя существительное",
-            "Case": "именительный",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "шторм",
+        "NormalForm": "шторм",
+        "POS": "имя существительное",
+        "Case": "именительный",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "шёл": {
-            "OriginForm": "шёл",
-            "NormalForm": "идти",
-            "POS": "глагол (личная форма)",
-            "Case": "None",
-            "Gender": "мужской род",
-            "FromDict": true
-        }
+        "OriginForm": "шёл",
+        "NormalForm": "идти",
+        "POS": "глагол (личная форма)",
+        "Case": "None",
+        "Gender": "мужской род",
+        "FromDict": true
     },
     {
-        "назад": {
-            "OriginForm": "назад",
-            "NormalForm": "назад",
-            "POS": "наречие",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "назад",
+        "NormalForm": "назад",
+        "POS": "наречие",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "и": {
-            "OriginForm": "и",
-            "NormalForm": "и",
-            "POS": "союз",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "и",
+        "NormalForm": "и",
+        "POS": "союз",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     },
     {
-        "вперёд": {
-            "OriginForm": "вперёд",
-            "NormalForm": "вперёд",
-            "POS": "наречие",
-            "Case": "None",
-            "Gender": "None",
-            "FromDict": true
-        }
+        "OriginForm": "вперёд",
+        "NormalForm": "вперёд",
+        "POS": "наречие",
+        "Case": "None",
+        "Gender": "None",
+        "FromDict": true
     }
 ]
