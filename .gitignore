@@ -1,2 +1,9 @@
 lectures
-run.cmd
+.ipynb_checkpoints
+results
+texts
+*.json
+*.csv
+*.tsv
+*.cmd
+*.txt
